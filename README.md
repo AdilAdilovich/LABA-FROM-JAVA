@@ -4,4 +4,4 @@
 
 ![Screenshot](2.PNG)
 
-![Screenshot](3.png)
+![Screenshot](3.PNG)
